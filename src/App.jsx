@@ -1,6 +1,6 @@
 import { useContext, useState } from "react";
 import "./App.css";
-import WeatherProvider from "./contexApi/WeatherProvider";
+//import WeatherProvider from "./contexApi/WeatherProvider";
 import weatherContex from "./contexApi/weatherContex";
 import clear from "./assets/clear.png";
 import mist from "./assets/mist.png";
